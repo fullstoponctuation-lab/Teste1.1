@@ -1,1 +1,1 @@
-Testando o git e github
+Testando o github
